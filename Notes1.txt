@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+=======
+This is my first gitub class
+new remote code
+kol
+>>>>>>> 0451c7060d358be6708163a5887fb3906d73a5db
